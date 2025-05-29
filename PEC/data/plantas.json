@@ -1,0 +1,302 @@
+[
+  {
+    "id": "jitomate",
+    "nombre": "Jitomate",
+    "descripcion": "El jitomate es una de las hortalizas más populares en los huertos de traspatio. Su fruto rojo, jugoso y lleno de sabor, es ideal para ensaladas, guisos, jugos y hasta salsas bien picosas. Además, se adapta bien a climas cálidos y moderados.",
+    "cuidados": "El jitomate necesita al menos 6 horas de sol directo al día. El suelo debe ser rico en materia orgánica, suelto y bien drenado. Se recomienda agregar composta o humus antes de plantar.",
+    "instrucciones": "Para sembrar jitomate, coloca las semillas en semilleros a 1 cm de profundidad. Mantén la tierra húmeda y en un lugar cálido. Cuando las plántulas tengan unos 15 cm de alto, trasplántalas al suelo o a una maceta grande. Deja mínimo 40 cm entre planta y planta. Usa estacas o tutores para que la planta crezca recta.",
+    "riego": "Riega de 2 a 3 veces por semana, procurando que el agua no moje las hojas para evitar hongos. En temporadas secas, aumenta la frecuencia.",
+    "cosecha": "El tomate está listo para cosechar entre 70 y 90 días después de la siembra, cuando los frutos tengan un color rojo intenso y se desprendan fácilmente del tallo.",
+    "imagen": "jitomate.png"
+  },
+  {
+    "id": "cebolla",
+    "nombre": "Cebolla",
+    "descripcion": "La cebolla es un clásico de la cocina mexicana. Su sabor y aroma son inconfundibles. Es resistente y no exige demasiados cuidados, por lo que es ideal para huertos caseros, ya sea en suelo o macetas.",
+    "cuidados": "Prefiere suelos sueltos, bien drenados y con buen contenido de nutrientes. Necesita mucha luz, pero puede crecer con temperaturas frescas. Evita que el agua se estanque para no pudrir el bulbo.",
+    "instrucciones": "Puedes sembrarla a partir de semillas o trasplantes (bulbitos). Siembra las semillas a 1 cm de profundidad y separadas por 10 cm. Si usas bulbitos, entiérralos con la punta hacia arriba. Ralea las plantas si están muy juntas.",
+    "riego": "Riega ligeramente cada 2 o 3 días. No exageres, porque demasiada agua puede pudrir el bulbo.",
+    "cosecha": "La cebolla se cosecha entre 90 y 120 días después de la siembra, cuando las hojas empiezan a secarse y doblarse. Sácalas con cuidado y déjalas secar al sol por unos días.",
+    "imagen": "cebolla.png"
+  },
+  {
+    "id": "zanahoria",
+    "nombre": "Zanahoria",
+    "descripcion": "La zanahoria es una raíz comestible, dulce, crujiente y súper nutritiva. Se puede sembrar en macetas profundas o directamente en el suelo. Es perfecta para jugos, snacks y ensaladas.",
+    "cuidados": "Necesita un suelo suelto, profundo y sin piedras para que las raíces crezcan derechitas. Clima templado, ni mucho calor ni frío extremo.",
+    "instrucciones": "Siembra las semillas directamente en el suelo, a 1 cm de profundidad y con 5 cm de separación. No es recomendable trasplantar, ya que eso deforma las raíces. Ralea cuando las plantas midan 5 cm para que crezcan bien.",
+    "riego": "Mantén la tierra siempre húmeda, pero no encharcada. Riega cada 2 días en climas calurosos.",
+    "cosecha": "Están listas para cosechar entre 70 y 80 días. Sabrás que ya están cuando la parte superior de la raíz sobresalga de la tierra. Sácalas con cuidado para no romperlas.",
+    "imagen": "zanahoria.png"
+  },
+  {
+    "id": "lechuga",
+    "nombre": "Lechuga",
+    "descripcion": "La lechuga es una hortaliza de hojas verdes y frescas. Fácil de cultivar y rápida en crecer, ideal para tener en el huerto y cortar solo lo necesario para el taco o la ensalada.",
+    "cuidados": "Climas frescos y sombra parcial son lo mejor. Prefiere suelos húmedos, bien drenados y con buen abono orgánico. No tolera bien el calor intenso.",
+    "instrucciones": "Puedes sembrar semillas directamente o usar semilleros. Coloca las semillas a 0.5 cm de profundidad y separadas por 20 cm. Puedes ir cosechando hoja por hoja conforme se necesite.",
+    "riego": "Riega a diario, manteniendo el sustrato húmedo pero sin encharcar. El exceso de agua puede atraer hongos.",
+    "cosecha": "Listas en 30 a 45 días. Corta las hojas exteriores o toda la planta si ya está madura. No esperes demasiado o se pondrá amarga.",
+    "imagen": "lechuga.png"
+  },
+  {
+    "id": "chile",
+    "nombre": "Chile",
+    "descripcion": "El chile es una planta clásica de los huertos mexicanos. Existen muchas variedades, desde el suave chile poblano hasta el brutal habanero. Además de su sabor, sus frutos dan color y vida al jardín.",
+    "cuidados": "Requiere sol pleno, suelos fértiles y bien drenados. Agradece el abono orgánico, especialmente en floración y fructificación.",
+    "instrucciones": "Germina las semillas en un semillero y trasplántalas cuando midan 10-15 cm. Deja al menos 40 cm entre plantas. Usa tutor si se cargan mucho de frutos.",
+    "riego": "Riego moderado cada 2-3 días. No lo mojes demasiado porque es propenso a hongos. Riega directo en la base.",
+    "cosecha": "De 80 a 100 días después de la siembra. Corta los frutos con tijeras cuando tengan buen color y tamaño. Cosechar a tiempo estimula más producción.",
+    "imagen": "chile.png"
+  },
+  {
+    "id": "pepino",
+    "nombre": "Pepino",
+    "descripcion": "El pepino es una hortaliza refrescante, ideal para ensaladas y jugos. Se adapta bien a climas cálidos y es muy fácil de cultivar en huertos caseros. Su piel verde y su sabor suave lo hacen una de las favoritas en el huerto.",
+    "cuidados": "Necesita mucho sol directo y un suelo bien drenado. Prefiere un clima cálido, pero tolera algo de sombra en las horas más intensas del sol.",
+    "instrucciones": "Siembra las semillas a 1 cm de profundidad y espaciadas 30 cm entre cada planta. Usa tutores o mallas para que las plantas trepen y se desarrollen bien.",
+    "riego": "Riega abundantemente, especialmente durante la fructificación. Evita que el agua quede estancada en el suelo.",
+    "cosecha": "Estará listo para cosechar entre 50 y 60 días, cuando los frutos tengan un color verde brillante y se sientan firmes al tacto.",
+    "imagen": "pepino.png"
+  },
+  {
+    "id": "espinaca",
+    "nombre": "Espinaca",
+    "descripcion": "La espinaca es una hortaliza rica en hierro, fácil de cultivar y muy nutritiva. Se puede sembrar durante todo el año, pero prefiere climas frescos y algo de sombra.",
+    "cuidados": "El suelo debe ser suelto y rico en materia orgánica. Evita el exceso de agua y asegúrate de que tenga buen drenaje.",
+    "instrucciones": "Siembra las semillas a 1 cm de profundidad y con separación de 10 cm. Cosecha las hojas exteriores conforme crecen, dejando que las más jóvenes sigan creciendo.",
+    "riego": "Riega moderadamente. Mantén el suelo húmedo, pero no encharcado. Es importante evitar que las raíces se pudran por exceso de agua.",
+    "cosecha": "Las primeras hojas están listas en 30 días, pero puedes seguir cosechando durante todo el ciclo de vida de la planta.",
+    "imagen": "espinaca.png"
+  },
+  {
+    "id": "berenjena",
+    "nombre": "Berenjena",
+    "descripcion": "La berenjena es una planta de fruto morado, ideal para hacer guisos y salsas. Su cultivo requiere calor, pero es relativamente fácil de mantener una vez establecida.",
+    "cuidados": "Requiere un suelo fértil, bien drenado, y una cantidad adecuada de sol directo. Necesita espacio suficiente para expandir sus ramas.",
+    "instrucciones": "Siembra las semillas a 1 cm de profundidad en semilleros y trasplanta cuando las plántulas tengan 10 cm de altura. Espacia las plantas entre 40 y 50 cm.",
+    "riego": "Riega con regularidad, especialmente cuando las plantas empiezan a fructificar. Evita el riego excesivo para que no se pudran las raíces.",
+    "cosecha": "La berenjena estará lista para cosechar cuando su piel esté brillante y el fruto se sienta firme al tacto. Esto sucede entre 70 y 90 días después de la siembra.",
+    "imagen": "berenjena.png"
+  },
+  {
+    "id": "pimiento",
+    "nombre": "Pimiento",
+    "descripcion": "Los pimientos son frutos de diferentes colores y tamaños, y son esenciales en muchas recetas. Se cultivan en climas cálidos y son perfectos para huertos de traspatio.",
+    "cuidados": "Prefiere el sol directo y un suelo bien drenado. Necesita un buen riego, pero sin exceso de humedad en el suelo.",
+    "instrucciones": "Siembra las semillas a 1 cm de profundidad y deja entre 30 y 40 cm entre cada planta. Los pimientos pueden tardar un poco en madurar, pero las plantas suelen ser productivas.",
+    "riego": "Riega moderadamente, asegurándote de que el agua se distribuya de manera uniforme. Mantén el suelo ligeramente húmedo, pero no encharcado.",
+    "cosecha": "Los pimientos están listos para cosechar entre 70 y 90 días, cuando hayan alcanzado su color y tamaño característico.",
+    "imagen": "pimiento.png"
+  },
+  {
+    "id": "calabaza",
+    "nombre": "Calabaza",
+    "descripcion": "La calabaza es una planta muy versátil, que puede crecer tanto en huertos pequeños como grandes. Su fruto es ideal para sopas, guisos, y hasta postres.",
+    "cuidados": "Necesita un espacio amplio para crecer. Se adapta bien a temperaturas cálidas y climas soleados. Asegúrate de tener un suelo profundo, bien aireado y rico en nutrientes.",
+    "instrucciones": "Siembra las semillas directamente en el suelo a 2 cm de profundidad. Deja al menos 90 cm entre las plantas. Las calabazas crecen en largas vides, así que asegúrate de darles espacio para expandirse.",
+    "riego": "Riega regularmente, pero evita que el agua se quede estancada en el suelo. Durante el crecimiento, riega más seguido, especialmente cuando las frutas empiecen a formarse.",
+    "cosecha": "La calabaza está lista cuando su piel es dura y tiene un color característico, que varía según el tipo de calabaza. Cosecha entre 80 y 100 días después de la siembra.",
+    "imagen": "calabaza.png"
+  },
+    {
+    "id": "chirivía",
+    "nombre": "Chirivía",
+    "descripcion": "La chirivía es una raíz comestible de sabor dulce que se parece a la zanahoria pero es más grande y con una textura más fibrosa. Ideal para sopas y guisos.",
+    "cuidados": "Prefiere suelos sueltos y ricos en nutrientes, además de una exposición solar directa. Necesita temperaturas frescas para un buen desarrollo.",
+    "instrucciones": "Siembra las semillas a 1-2 cm de profundidad y separadas unos 25 cm entre sí. Asegúrate de mantener el suelo húmedo durante el crecimiento.",
+    "riego": "Riega regularmente para mantener el suelo ligeramente húmedo, pero evitando que se quede encharcado.",
+    "cosecha": "Estará lista para cosechar en 80-100 días, cuando las raíces tengan el tamaño adecuado y un color blanco cremoso.",
+    "imagen": "chirivia.png"
+  },
+  {
+    "id": "tomate",
+    "nombre": "Tomate",
+    "descripcion": "El tomate es uno de los cultivos más comunes y versátiles en la huerta. Existen muchas variedades, todas ricas en vitaminas y antioxidantes.",
+    "cuidados": "Requiere suelos bien drenados y ricos en materia orgánica. El tomate necesita al menos 6 horas de sol directo al día.",
+    "instrucciones": "Siembra las semillas a 1 cm de profundidad y trasplántalas cuando tengan 15-20 cm de altura. Deja 50 cm de distancia entre cada planta.",
+    "riego": "Riega de forma constante, pero evita que el agua quede estancada en las raíces.",
+    "cosecha": "Los tomates estarán listos para cosechar entre 60-85 días, cuando estén completamente rojos o según la variedad.",
+    "imagen": "tomate.png"
+  },
+  {
+    "id": "cilantro",
+    "nombre": "Cilantro",
+    "descripcion": "El cilantro es una hierba aromática utilizada en diversas cocinas. Es fácil de cultivar y crece rápidamente en climas templados.",
+    "cuidados": "Prefiere suelos bien drenados y sol directo. Asegúrate de que el suelo esté húmedo, pero no encharcado.",
+    "instrucciones": "Siembra las semillas a 1 cm de profundidad y separadas 10 cm entre sí. Asegúrate de que las plantas tengan suficiente espacio para crecer.",
+    "riego": "Riega con moderación para mantener el suelo ligeramente húmedo.",
+    "cosecha": "Está listo para cosechar entre 30-45 días, cuando las hojas sean frescas y verdes.",
+    "imagen": "cilantro.png"
+  },
+  {
+    "id": "remolacha",
+    "nombre": "Remolacha",
+    "descripcion": "La remolacha es una hortaliza nutritiva, rica en hierro y vitaminas. Se cultiva por sus raíces comestibles que se utilizan en ensaladas y jugos.",
+    "cuidados": "Requiere suelos bien aireados, ricos en nutrientes y con buen drenaje. Le gusta el sol directo, pero también tolera algo de sombra.",
+    "instrucciones": "Siembra las semillas a 1 cm de profundidad y separadas unos 10 cm entre sí. Asegúrate de que las raíces tengan suficiente espacio para crecer.",
+    "riego": "Riega de manera constante, pero evitando que el suelo se encharque.",
+    "cosecha": "La remolacha estará lista para cosechar en 50-70 días, cuando las raíces tengan un tamaño adecuado y sean de un color rojo intenso.",
+    "imagen": "remolacha.png"
+  },
+  {
+    "id": "berros",
+    "nombre": "Berros",
+    "descripcion": "Los berros son una planta de rápido crecimiento que se utiliza en ensaladas y sopas. Son conocidos por su sabor picante y sus beneficios para la salud.",
+    "cuidados": "Prefiere suelos húmedos y ligeramente ácidos. Requiere un ambiente fresco y algo de sombra en climas cálidos.",
+    "instrucciones": "Siembra las semillas en la superficie del suelo, presionándolas ligeramente. Los berros pueden crecer en agua o en suelos húmedos.",
+    "riego": "Mantén el suelo húmedo constantemente, o si lo cultivas en agua, asegúrate de que el agua esté limpia.",
+    "cosecha": "Los berros estarán listos para cosechar en 20-30 días, cuando las hojas sean tiernas y de un color verde brillante.",
+    "imagen": "berros.png"
+  },
+    {
+    "id": "brócoli",
+    "nombre": "Brócoli",
+    "descripcion": "El brócoli es una hortaliza rica en vitaminas y minerales. Se cultiva por sus cabezas florales, que son muy nutritivas y populares en ensaladas y sopas.",
+    "cuidados": "Prefiere suelos bien drenados y ricos en nutrientes. Necesita un clima fresco y pleno sol para un crecimiento óptimo.",
+    "instrucciones": "Siembra las semillas a 1 cm de profundidad y separadas unos 30 cm entre sí. Se recomienda trasplantar cuando las plantas tengan unos 10-15 cm de altura.",
+    "riego": "Riega con frecuencia, asegurándote de que el suelo esté constantemente húmedo, pero sin encharcar.",
+    "cosecha": "La cosecha se puede hacer cuando las cabezas del brócoli sean compactas y de color verde brillante, generalmente entre 70-100 días.",
+    "imagen": "brocoli.png"
+  },
+  {
+    "id": "coliflor",
+    "nombre": "Coliflor",
+    "descripcion": "La coliflor es una planta crucífera que se cultiva por su cabeza blanca y compacta. Es rica en fibra y vitamina C.",
+    "cuidados": "Prefiere suelos sueltos, ricos en materia orgánica y ligeramente ácidos. Necesita un clima fresco para desarrollarse correctamente.",
+    "instrucciones": "Siembra las semillas a 1 cm de profundidad y deja una separación de unos 40 cm entre cada planta.",
+    "riego": "Mantén el suelo siempre húmedo, especialmente en la temporada de crecimiento.",
+    "cosecha": "La cosecha se realiza cuando la cabeza central se forma completamente y tiene un color blanco cremoso, normalmente después de 70-100 días.",
+    "imagen": "coliflor.png"
+  },
+  {
+    "id": "papa",
+    "nombre": "Papa",
+    "descripcion": "La papa es uno de los cultivos más populares y versátiles, conocida por su alto contenido energético. Se cultiva principalmente por sus tubérculos comestibles.",
+    "cuidados": "Prefiere suelos sueltos, bien aireados y ricos en nutrientes. Necesita mucho sol y riego moderado.",
+    "instrucciones": "Planta los tubérculos a 10 cm de profundidad, con una separación de unos 30 cm entre ellos. Se recomienda plantar en surcos elevados para un mejor drenaje.",
+    "riego": "Riega de forma constante, pero evitando encharcar el suelo.",
+    "cosecha": "La cosecha depende de la variedad, pero generalmente se realiza entre 90-120 días, cuando las plantas empiezan a marchitarse.",
+    "imagen": "papa.png"
+  },
+  {
+    "id": "guisante",
+    "nombre": "Guisante",
+    "descripcion": "El guisante es una planta de clima fresco que produce vainas comestibles llenas de semillas pequeñas. Es una excelente fuente de proteína vegetal.",
+    "cuidados": "Requiere suelos ricos en nutrientes y bien drenados. Necesita sol directo, pero tolera algo de sombra en las horas más calurosas del día.",
+    "instrucciones": "Siembra las semillas a 2 cm de profundidad y separadas unos 5 cm entre sí. Usa enrejados o soportes para que las plantas crezcan verticalmente.",
+    "riego": "Riega regularmente para mantener el suelo húmedo, pero sin encharcar.",
+    "cosecha": "Los guisantes estarán listos para cosechar entre 60-70 días, cuando las vainas estén llenas y de color verde brillante.",
+    "imagen": "guisante.png"
+  },
+  {
+    "id": "alcachofa",
+    "nombre": "Alcachofa",
+    "descripcion": "La alcachofa es una planta perenne cuyo brote floral es comestible. Es rica en antioxidantes y beneficiosa para la salud digestiva.",
+    "cuidados": "Prefiere suelos sueltos y bien drenados, con un pH ligeramente ácido. Necesita pleno sol y riego moderado.",
+    "instrucciones": "Siembra las semillas a 1-2 cm de profundidad y separadas 30 cm entre sí. Asegúrate de que la planta tenga suficiente espacio para desarrollarse.",
+    "riego": "Riega regularmente, pero evita encharcar el suelo.",
+    "cosecha": "La alcachofa se cosecha cuando los botones florales están firmes y de color verde, antes de que florezcan, generalmente entre 150-180 días.",
+    "imagen": "alcachofa.png"
+  },
+  {
+  "id": "repollo",
+  "nombre": "Repollo",
+  "descripcion": "El repollo es una hortaliza de hojas compactas que se agrupan formando una cabeza. Es rico en fibra, vitamina C y antioxidantes, ideal para ensaladas, sopas o fermentados como el chucrut.",
+  "cuidados": "Prefiere climas templados y suelos ricos en materia orgánica. Requiere buena iluminación y protección contra plagas como la mosca de la col.",
+  "instrucciones": "Siembra en semillero y trasplanta cuando tengan 4-5 hojas verdaderas. Deja al menos 40 cm entre plantas. Requiere acolchado para conservar humedad.",
+  "riego": "Constante pero moderado. El suelo debe mantenerse húmedo, sin llegar a estar empapado.",
+  "cosecha": "Listo entre 80 y 110 días después de la siembra. Se cosecha cuando la cabeza esté firme y bien formada.",
+  "imagen": "repollo.png"
+  },
+  {
+  "id": "acelga",
+  "nombre": "Acelga",
+  "descripcion": "La acelga es una hortaliza de hojas grandes y tallos carnosos, muy rica en hierro, vitamina A y K. Es versátil en la cocina y fácil de cultivar en climas templados.",
+  "cuidados": "Tolera bien el frío y prefiere suelos fértiles, bien drenados y con buen contenido de materia orgánica. Necesita buena luz, aunque soporta algo de sombra.",
+  "instrucciones": "Siembra directa a 2-3 cm de profundidad, con una separación de 25-30 cm entre plantas. Puedes sembrar varias veces al año.",
+  "riego": "Riega regularmente para mantener el suelo húmedo, especialmente durante el crecimiento inicial.",
+  "cosecha": "Empieza a cortar hojas exteriores cuando midan unos 20 cm, sin arrancar la planta completa. Produce por varios meses.",
+  "imagen": "acelga.png"
+  },
+  {
+  "id": "frijol",
+  "nombre": "Frijol",
+  "descripcion": "El frijol es una leguminosa fundamental en la alimentación, rica en proteínas, fibra y minerales. Se cultiva fácilmente y enriquece el suelo al fijar nitrógeno.",
+  "cuidados": "Prefiere climas cálidos y suelos bien drenados, ligeramente arenosos y ricos en materia orgánica. Necesita buena exposición solar.",
+  "instrucciones": "Siembra directa a 3-5 cm de profundidad, dejando unos 15-20 cm entre plantas y 50 cm entre hileras. No requiere trasplante.",
+  "riego": "Moderado. Evita el exceso de agua, especialmente en floración y formación de vainas.",
+  "cosecha": "Dependiendo de la variedad, está listo entre 70 y 100 días. Cosecha cuando las vainas estén secas si son para grano.",
+  "imagen": "frijol.png"
+  },
+  {
+  "id": "maiz",
+  "nombre": "Maíz",
+  "descripcion": "El maíz es uno de los cultivos más importantes a nivel mundial, siendo una excelente fuente de carbohidratos, fibra, vitaminas del complejo B y minerales. Ideal para traspatios de gran tamaño.",
+  "cuidados": "Prefiere suelos fértiles y bien drenados, además de climas cálidos. Necesita mucho sol y espacio para que sus plantas crezcan adecuadamente.",
+  "instrucciones": "Siembra las semillas a 3-4 cm de profundidad, con una distancia de 20-30 cm entre plantas y 75 cm entre hileras. Necesita espacio para crecer bien.",
+  "riego": "El maíz requiere riego constante, especialmente cuando las plantas comienzan a crecer. Evita que el suelo se seque demasiado.",
+  "cosecha": "Cosecha cuando las mazorcas estén bien formadas, las hojas se pongan secas y las cáscaras comiencen a secarse, lo cual puede ocurrir entre 90-120 días.",
+  "imagen": "maiz.png"
+  },
+  {
+  "id": "albahaca",
+  "nombre": "Albahaca",
+  "descripcion": "La albahaca es una hierba aromática con un sabor único, rica en antioxidantes y aceites esenciales. Se usa en múltiples platillos, especialmente en la cocina mediterránea.",
+  "cuidados": "Prefiere climas cálidos y suelos bien drenados. Necesita mucha luz solar directa para crecer correctamente. No tolera el frío, por lo que debe protegerse de las heladas.",
+  "instrucciones": "Siembra las semillas a 0.5 cm de profundidad en macetas o directamente en el suelo. Asegúrate de dejar al menos 25 cm de distancia entre cada planta.",
+  "riego": "Riega con moderación, manteniendo el suelo ligeramente húmedo. Evita encharcar las raíces, ya que la albahaca es susceptible a hongos.",
+  "cosecha": "Cosecha las hojas cuando tengan un tamaño adecuado, cortando las ramas superiores para que la planta siga creciendo. Esto puede empezar después de 60 días.",
+  "imagen": "albahaca.png"
+  },
+  {
+  "id": "rabano",
+  "nombre": "Rábano",
+  "descripcion": "El rábano es una raíz comestible, crujiente y picante, rica en fibra y vitamina C. Se cultiva fácilmente y es ideal para huertos pequeños.",
+  "cuidados": "Prefiere un suelo suelto, ligero y bien drenado. No tolera el exceso de calor, por lo que se recomienda sembrarlo en climas templados o en la sombra en lugares cálidos.",
+  "instrucciones": "Siembra las semillas directamente en el suelo a 1-2 cm de profundidad, con una separación de 5-10 cm entre plantas. Es una de las hortalizas más rápidas de cosechar.",
+  "riego": "El riego debe ser constante, pero sin encharcar el suelo. El rábano necesita un suelo siempre ligeramente húmedo.",
+  "cosecha": "Cosecha entre 20 y 30 días después de la siembra, cuando los rábanos hayan alcanzado su tamaño ideal. La raíz debe ser firme y de color rojo vibrante.",
+  "imagen": "rabano.png"
+  },
+  {
+  "id": "ajo",
+  "nombre": "Ajo",
+  "descripcion": "El ajo es una planta bulbosa con propiedades medicinales y un sabor fuerte que se utiliza en una gran variedad de platillos. Además, es fácil de cultivar en cualquier huerto casero.",
+  "cuidados": "Prefiere suelos ligeros y bien drenados, con exposición directa al sol. No tolera el exceso de humedad, así que el riego debe ser moderado.",
+  "instrucciones": "Planta los dientes de ajo a una profundidad de 5 cm, con la parte puntiaguda hacia arriba. Deja una separación de 10-15 cm entre cada diente.",
+  "riego": "El ajo requiere riego constante pero no excesivo. Evita el encharcamiento, ya que esto puede causar pudrición en los bulbos.",
+  "cosecha": "La cosecha se realiza cuando las hojas comienzan a secarse. El ajo está listo para ser recolectado entre 90 y 120 días después de la siembra.",
+  "imagen": "ajo.png"
+  },
+  {
+  "id": "col_rizada",
+  "nombre": "Col rizada (Kale)",
+  "descripcion": "La col rizada, también conocida como kale, es una hortaliza de hojas verdes ricas en vitaminas A, C, K y minerales. Se ha hecho muy popular por sus beneficios para la salud.",
+  "cuidados": "Prefiere climas fríos o templados. El suelo debe estar bien drenado y ser rico en nutrientes. Requiere una exposición solar moderada, pero puede tolerar algo de sombra.",
+  "instrucciones": "Siembra las semillas a 1 cm de profundidad y mantén una separación de 30-40 cm entre plantas. Se puede sembrar en el suelo o en macetas grandes.",
+  "riego": "Riega regularmente, manteniendo el suelo ligeramente húmedo. No tolera la sequía, pero evita el exceso de agua que puede causar pudrición de las raíces.",
+  "cosecha": "La col rizada puede cosecharse cuando las hojas están lo suficientemente grandes y tiernas. Puedes empezar a cosechar después de 50-70 días, cortando las hojas exteriores y dejando las más jóvenes para que sigan creciendo.",
+  "imagen": "col_rizada.png"
+  },
+  {
+  "id": "boniato",
+  "nombre": "Boniato (Camote)",
+  "descripcion": "El boniato, también conocido como camote, es una raíz comestible de sabor dulce y textura suave. Es una excelente fuente de carbohidratos complejos, fibra y vitaminas A y C.",
+  "cuidados": "Prefiere suelos bien drenados, ligeros y arenosos. Necesita una exposición total al sol para un crecimiento óptimo. Evita suelos que retengan demasiada humedad, ya que esto puede generar podredumbre.",
+  "instrucciones": "Planta los esquejes o raíces en el suelo a unos 10 cm de profundidad, dejando una distancia de 30-40 cm entre plantas. Es mejor plantar en primavera, cuando las temperaturas ya son cálidas.",
+  "riego": "El boniato necesita riego regular, pero con cuidado de no encharcar las raíces. Es importante que el suelo no esté demasiado mojado para evitar la pudrición.",
+  "cosecha": "La cosecha del boniato se realiza entre 90 y 150 días, dependiendo de la variedad. Se debe cosechar cuando las hojas de la planta empiezan a marchitarse. Las raíces deben ser firmes y de color naranja o blanco.",
+  "imagen": "boniato.png"
+  },
+  {
+  "id": "calabazin",
+  "nombre": "Calabazín (Zucchini)",
+  "descripcion": "El calabazín es una hortaliza de verano que pertenece a la familia de las calabazas. Es muy popular en ensaladas, sopas, y se puede incluso comer crudo. Tiene un sabor suave y es muy versátil en la cocina.",
+  "cuidados": "Requiere un suelo bien drenado y rico en nutrientes. Prefiere un clima cálido, pero puede tolerar algo de sombra parcial. Necesita riego constante, especialmente durante los períodos secos.",
+  "instrucciones": "Siembra las semillas a 2-3 cm de profundidad, con una separación de 30-40 cm entre cada planta. También se puede cultivar en macetas grandes o huertos elevados.",
+  "riego": "Riega regularmente, asegurándote de no mojar las hojas para evitar enfermedades fúngicas. Mantén el suelo húmedo pero no encharcado.",
+  "cosecha": "La cosecha se realiza cuando los frutos alcanzan unos 15-20 cm de largo y todavía están tiernos. Si se dejan crecer demasiado, pueden volverse amargos.",
+  "imagen": "calabazin.png"
+  } 
+]
