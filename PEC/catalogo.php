@@ -21,6 +21,10 @@
   <link rel="icon" type="image/x-icon" href="favicon.png">
 </head>
 <body class="bg-light">
+  <br>
+  <div class="mb-4 text-center">
+    <a href="index.php" class="btn btn-outline-secondary">Cerrar Sesión</a>
+  </div>
   <div class="container mt-4">
     <h1 class="text-center mb-5">🌱 Enciclopedia de Hortalizas de Traspatio 🌱</h1>
     <div class="row row-cols-1 row-cols-md-4 g-4">
